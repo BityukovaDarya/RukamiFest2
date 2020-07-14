@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RukamiFest</string>
+    <string name="app_in_name">Руками</string>
+    <string name="app_name_after">Фестиваль идей и технологий</string>
+    <string name="text_bottom">Изменить мир руками</string>
+    <string name="Register">Стать участником!</string>
+</resources>

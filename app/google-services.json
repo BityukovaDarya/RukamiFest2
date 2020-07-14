@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638800203962",
+    "firebase_url": "https://rukamifest-7c6b3.firebaseio.com",
+    "project_id": "rukamifest-7c6b3",
+    "storage_bucket": "rukamifest-7c6b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638800203962:android:c77da167d9847c504af283",
+        "android_client_info": {
+          "package_name": "rukamifest.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638800203962-n1siqekdl3tdaubvjgf2t0q0tpmb6vio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rukamifest.com",
+            "certificate_hash": "b30970fc29e223d3cb5cb2a4cdf6f211cc721f0d"
+          }
+        },
+        {
+          "client_id": "638800203962-tsh78qjt9tv143kddlhod1pmt9g5g8ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJNFWh_GbCcB1On8R1LYyyEcoDemmRb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638800203962-tsh78qjt9tv143kddlhod1pmt9g5g8ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
